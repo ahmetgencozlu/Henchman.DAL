@@ -1,0 +1,16 @@
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\GNCZBilisim\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\09370706\source\repos\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb

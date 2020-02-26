@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj": {}
+    "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj": {
+    "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj",
+        "projectUniqueName": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj",
         "projectName": "DataAccessLayer.Test",
-        "projectPath": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj",
-        "packagesPath": "C:\\Users\\GNCZBilisim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\obj\\",
+        "projectPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\DataAccessLayer.Test.csproj",
+        "packagesPath": "C:\\Users\\09370706\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\GNCZBilisim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\09370706\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,13 +25,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://bellatrix:8080/tfs/KocDigitalCollection/_packaging/CosmosNugetServerv1/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -77,24 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "Henchman.DAL",
-        "projectPath": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\GNCZBilisim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GNCZBilisim\\source\\repos\\DataAccessLayer\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\09370706\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\GNCZBilisim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\09370706\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,6 +103,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://bellatrix:8080/tfs/KocDigitalCollection/_packaging/CosmosNugetServerv1/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

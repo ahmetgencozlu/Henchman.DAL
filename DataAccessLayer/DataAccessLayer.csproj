@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Ahmet Gençözlü</Authors>
+    <Product>Henchman.DAL</Product>
+    <PackageId>Henchman.DAL</PackageId>
+    <Copyright>Copyright ©2020 Ahmet Gençözlü</Copyright>
+    <PackageIcon>HenchmanDAL.jpg</PackageIcon>
+    <PackageIconUrl />
+    <PackageTags>Henchman,Rapper,Dapper,SQlite,SQL,DAL</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <RepositoryUrl>https://github.com/ahmetgencozlu/Henchman.DAL</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ahmetgencozlu/Henchman.DAL</PackageProjectUrl>
+    <Description>Micro ORM</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.30" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.112" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\HenchmanDAL.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
