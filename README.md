@@ -1,5 +1,4 @@
-# Henchman.DAL
-
+# Henchman.DAL ![alt text](https://cdn2.iconfinder.com/data/icons/innovation-technology-1/512/tech_0005-64.png)
 Bu repository Micro ORM mantığıyla geliştirilmiş ve çoklu DB teknolojilerine hitap etmektedir. DB teknolojilerine göre Jenerik Repositoryler geliştirilip  bu repositorleri ister kendi projenizde Specification pattern kullanarak genişletebilir istersenizde  repositorylerde bulunan metodları entity bazlı kullanabilirsiniz.
 
 ## Installation
