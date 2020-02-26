@@ -4,7 +4,7 @@ Bu repository Micro ORM mantığıyla geliştirilmiş ve çoklu DB teknolojileri
 
 ## Installation
 
-Use the package manager [Nuget](https://www.nuget.org/packages/Henchman.DAL/) to install Henchman.DAL.
+Henchman.DAL'ı yüklemek için paket yöneticisini [Nuget](https://www.nuget.org/packages/Henchman.DAL/) kullanın.
 
 ```bash
 Install-Package Henchman.DAL
