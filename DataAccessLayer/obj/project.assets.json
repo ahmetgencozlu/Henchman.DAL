@@ -744,11 +744,11 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\MyGitHub\\Henchman.DAL\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "Henchman.DAL",
-      "projectPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\MyGitHub\\Henchman.DAL\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\09370706\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\09370706\\source\\repos\\DataAccessLayer\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\MyGitHub\\Henchman.DAL\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -762,6 +762,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\09370706\\Documents\\My Package": {},
+        "http://bellatrix:8080/tfs/KocDigitalCollection/_packaging/CarbonFramework/nuget/v3/index.json": {},
         "http://bellatrix:8080/tfs/KocDigitalCollection/_packaging/CosmosNugetServerv1/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -811,7 +813,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
